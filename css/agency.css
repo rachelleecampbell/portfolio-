@@ -134,9 +134,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: #78e3d3;
     color: #fff;
-    background-color: #fec503;
+    background-color: #78e3d3;
 }
 
 .btn-xl:active,
